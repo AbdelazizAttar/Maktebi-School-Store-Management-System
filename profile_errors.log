@@ -1,0 +1,50 @@
+[28-Jun-2025 01:03:34 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'magasin_scolaire.users' doesn't exist in C:\xamp1\htdocs\magasin\profile.php:57
+Stack trace:
+#0 C:\xamp1\htdocs\magasin\profile.php(57): PDO->prepare('SELECT nom, pre...')
+#1 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 57
+[28-Jun-2025 16:45:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'magasin_scolaire.users' doesn't exist in C:\xamp1\htdocs\magasin\profile.php:60
+Stack trace:
+#0 C:\xamp1\htdocs\magasin\profile.php(60): PDO->prepare('SELECT username...')
+#1 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 60
+[28-Jun-2025 16:51:06 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'magasin_scolaire.users' doesn't exist in C:\xamp1\htdocs\magasin\profile.php:60
+Stack trace:
+#0 C:\xamp1\htdocs\magasin\profile.php(60): PDO->prepare('SELECT username...')
+#1 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 60
+[28-Jun-2025 16:51:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'magasin_scolaire.users' doesn't exist in C:\xamp1\htdocs\magasin\profile.php:60
+Stack trace:
+#0 C:\xamp1\htdocs\magasin\profile.php(60): PDO->prepare('SELECT username...')
+#1 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 60
+[28-Jun-2025 16:51:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'magasin_scolaire.users' doesn't exist in C:\xamp1\htdocs\magasin\profile.php:56
+Stack trace:
+#0 C:\xamp1\htdocs\magasin\profile.php(56): PDO->prepare('SELECT username...')
+#1 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 56
+[28-Jun-2025 16:51:41 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xamp1\htdocs\magasin\profile.php on line 45
+[28-Jun-2025 16:51:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xamp1\htdocs\magasin\profile.php:45
+Stack trace:
+#0 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 45
+[28-Jun-2025 16:55:42 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'magasin_scolaire.users' doesn't exist in C:\xamp1\htdocs\magasin\profile.php:60
+Stack trace:
+#0 C:\xamp1\htdocs\magasin\profile.php(60): PDO->prepare('SELECT username...')
+#1 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 60
+[28-Jun-2025 16:56:07 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: in_array() expects at least 2 arguments, 1 given in C:\xamp1\htdocs\magasin\profile.php:24
+Stack trace:
+#0 C:\xamp1\htdocs\magasin\profile.php(24): in_array('gestionnaire')
+#1 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 24
+[28-Jun-2025 16:56:37 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xamp1\htdocs\magasin\profile.php on line 50
+[28-Jun-2025 16:56:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xamp1\htdocs\magasin\profile.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 50
+[28-Jun-2025 16:56:42 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xamp1\htdocs\magasin\profile.php on line 50
+[28-Jun-2025 16:56:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xamp1\htdocs\magasin\profile.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xamp1\htdocs\magasin\profile.php on line 50
